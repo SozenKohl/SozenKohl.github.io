@@ -52,7 +52,7 @@ section, time, mark, audio, video {
 	vertical-align: baseline;
 	background-attachment: fixed;}
 
-article, aside, details, figcaption, figure,
+article, aside, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
